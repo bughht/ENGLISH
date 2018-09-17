@@ -6672,4 +6672,1216 @@ aS'instruction'
 p2809
 aS'instructive'
 p2810
+asbag1
+(g2
+g3
+Ntp2811
+Rp2812
+(dp2813
+g7
+I5
+sg8
+S'\xe7\x96\xb2\xe6\x83\xab'
+p2814
+sg10
+(lp2815
+S'exhausted'
+p2816
+aS'be used up'
+p2817
+aS'be worn out'
+p2818
+aS'give out'
+p2819
+aS'run out of'
+p2820
+asbag1
+(g2
+g3
+Ntp2821
+Rp2822
+(dp2823
+g7
+I4
+sg8
+S'\xe5\xb1\x95\xe5\x87\xba'
+p2824
+sg10
+(lp2825
+S'on exhibit'
+p2826
+aS'on display'
+p2827
+aS'on show'
+p2828
+aS'on exhibition'
+p2829
+asbag1
+(g2
+g3
+Ntp2830
+Rp2831
+(dp2832
+g7
+I2
+sg8
+S'\xe5\xbd\xa2\xe6\x88\x90'
+p2833
+sg10
+(lp2834
+S'come into being'
+p2835
+aS'come into existance'
+p2836
+asbag1
+(g2
+g3
+Ntp2837
+Rp2838
+(dp2839
+g7
+I3
+sg8
+S'\xe6\x8b\x93\xe5\xae\xbd\xe4\xb8\x80\xe4\xb8\xaa\xe4\xba\xba\xe7\x9a\x84\xe8\xa7\x82\xe7\x82\xb9'
+p2840
+sg10
+(lp2841
+S"broaden one's view"
+p2842
+aS"expand one's mind"
+p2843
+aS"open up one's horizon"
+p2844
+asbag1
+(g2
+g3
+Ntp2845
+Rp2846
+(dp2847
+g7
+I5
+sg8
+S'\xe5\xbc\x80\xe5\xb1\x95\xe5\xae\x9e\xe9\xaa\x8c'
+p2848
+sg10
+(lp2849
+S'carry out the experiment'
+p2850
+aS'conduct the experiment'
+p2851
+aS'do the experiment'
+p2852
+aS'make the experiment'
+p2853
+aS'perform the experiment'
+p2854
+asbag1
+(g2
+g3
+Ntp2855
+Rp2856
+(dp2857
+g7
+I3
+sg8
+S'\xe8\xa1\xa8\xe8\xbe\xbe\xe5\x90\x8c\xe6\x83\x85'
+p2858
+sg10
+(lp2859
+S'express sympathy'
+p2860
+aS'express fear'
+p2861
+aS'express anger'
+p2862
+asbag1
+(g2
+g3
+Ntp2863
+Rp2864
+(dp2865
+g7
+I7
+sg8
+S'\xe7\xbb\x99\xe6\x9f\x90\xe4\xba\xba\xe7\x9a\x84\xe9\x97\xae\xe5\x80\x99'
+p2866
+sg10
+(lp2867
+S"send one's greeting to"
+p2868
+aS"extent one's greeting to"
+p2869
+aS'send regard to'
+p2870
+aS'send compliment to'
+p2871
+aS'send granting to'
+p2872
+aS'send best wishes to'
+p2873
+aS'remember A to B'
+p2874
+asbag1
+(g2
+g3
+Ntp2875
+Rp2876
+(dp2877
+g7
+I3
+sg8
+S'\xe5\x9c\xa8\xe6\x9f\x90\xe7\xa7\x8d\xe7\xa8\x8b\xe5\xba\xa6\xe4\xb8\x8a'
+p2878
+sg10
+(lp2879
+S'to some extent'
+p2880
+aS'to some degree'
+p2881
+aS'to some point'
+p2882
+asbag1
+(g2
+g3
+Ntp2883
+Rp2884
+(dp2885
+g7
+I2
+sg8
+S'\xe9\x9d\xa2\xe5\xaf\xb9\xe5\x9b\xb0\xe9\x9a\xbe'
+p2886
+sg10
+(lp2887
+S'face difficulty'
+p2888
+aS'be faced with difficulty'
+p2889
+asbag1
+(g2
+g3
+Ntp2890
+Rp2891
+(dp2892
+g7
+I2
+sg8
+S'\xe9\x9d\xa2\xe5\xaf\xb9\xe4\xb8\x9c\xe9\x83\xa8'
+p2893
+sg10
+(lp2894
+S'face east'
+p2895
+aS'face to the east'
+p2896
+asbag1
+(g2
+g3
+Ntp2897
+Rp2898
+(dp2899
+g7
+I2
+sg8
+S'\xe5\xa4\xb1\xe5\x8e\xbb\xe4\xbf\xa1\xe5\xbf\x83'
+p2900
+sg10
+(lp2901
+S'lose confidence in'
+p2902
+aS'lose faith in'
+p2903
+asbag1
+(g2
+g3
+Ntp2904
+Rp2905
+(dp2906
+g7
+I2
+sg8
+S'\xe6\x9f\x90\xe4\xba\xba\xe7\x86\x9f\xe6\x82\x89\xe2\x80\xa6'
+p2907
+sg10
+(lp2908
+S'sb be familiar with sth'
+p2909
+aS'sth be familiar to sb'
+p2910
+asbag1
+(g2
+g3
+Ntp2911
+Rp2912
+(dp2913
+g7
+I4
+sg8
+S'\xe6\xb8\xb4\xe6\x9c\x9b'
+p2914
+sg10
+(lp2915
+S'be keen on'
+p2916
+aS'be interested in'
+p2917
+aS'be fond of'
+p2918
+aS'have a fancy for'
+p2919
+asbag1
+(g2
+g3
+Ntp2920
+Rp2921
+(dp2922
+g7
+I3
+sg8
+S'\xe8\xbf\x9c\xe7\xa6\xbb\xe9\xab\x98\xe5\x85\xb4'
+p2923
+sg10
+(lp2924
+S'far from pleased'
+p2925
+aS'far from satisfactory'
+p2926
+aS'far less than'
+p2927
+asbag1
+(g2
+g3
+Ntp2928
+Rp2929
+(dp2930
+g7
+I4
+sg8
+S'\xe5\x9c\xa8\xe6\x97\xb6\xe5\xb0\x9a'
+p2931
+sg10
+(lp2932
+S'be in fashion'
+p2933
+aS'be in style'
+p2934
+aS'come into fashion'
+p2935
+aS'be fashionable'
+p2936
+asbag1
+(g2
+g3
+Ntp2937
+Rp2938
+(dp2939
+g7
+I4
+sg8
+S'\xe8\xbf\x87\xe6\x97\xb6\xe4\xba\x86'
+p2940
+sg10
+(lp2941
+S'out of date'
+p2942
+aS'out of fashion'
+p2943
+aS'out of time'
+p2944
+aS'out of style'
+p2945
+asbag1
+(g2
+g3
+Ntp2946
+Rp2947
+(dp2948
+g7
+I2
+sg8
+S'\xe7\x86\x9f\xe7\x9d\xa1'
+p2949
+sg10
+(lp2950
+S'sound asleep'
+p2951
+aS'fast asleep'
+p2952
+asbag1
+(g2
+g3
+Ntp2953
+Rp2954
+(dp2955
+g7
+I4
+sg8
+S'\xe8\xae\xb2\xe7\xa9\xb6'
+p2956
+sg10
+(lp2957
+S'be particular about'
+p2958
+aS'be critical with'
+p2959
+aS'find fault with'
+p2960
+aS'be critical of'
+p2961
+asbag1
+(g2
+g3
+Ntp2962
+Rp2963
+(dp2964
+g7
+I4
+sg8
+S'\xe6\x94\xaf\xe6\x8c\x81\xe6\x9f\x90\xe4\xba\xba'
+p2965
+sg10
+(lp2966
+S'support sb'
+p2967
+aS'in favor of sb'
+p2968
+aS'be for sb'
+p2969
+aS"on one's side"
+p2970
+asbag1
+(g2
+g3
+Ntp2971
+Rp2972
+(dp2973
+g7
+I4
+sg8
+S'\xe8\x85\xbb'
+p2974
+sg10
+(lp2975
+S'be bored with'
+p2976
+aS'be tired of'
+p2977
+aS'be sick of'
+p2978
+aS'fed up with'
+p2979
+asbag1
+(g2
+g3
+Ntp2980
+Rp2981
+(dp2982
+g7
+I2
+sg8
+S'\xe6\x94\xbe\xe7\x81\xab\xe7\x83\xa7\xe4\xba\x86\xe6\x88\xbf\xe5\xad\x90'
+p2983
+sg10
+(lp2984
+S'set fire to the house'
+p2985
+aS'set the house on fire'
+p2986
+asbag1
+(g2
+g3
+Ntp2987
+Rp2988
+(dp2989
+g7
+I5
+sg8
+S'\xe9\x9b\x86\xe4\xb8\xad\xe6\xb3\xa8\xe6\x84\x8f\xe5\x8a\x9b\xe4\xba\x8e'
+p2990
+sg10
+(lp2991
+S"focus one's attention on"
+p2992
+aS'concentrate on'
+p2993
+aS'pay attention to'
+p2994
+aS"fix one's attention on"
+p2995
+aS"fix one's eyes on"
+p2996
+asbag1
+(g2
+g3
+Ntp2997
+Rp2998
+(dp2999
+g7
+I5
+sg8
+S'\xe5\x90\x91\xe6\x9f\x90\xe4\xba\xba\xe5\x8f\x91\xe7\x94\x9f'
+p3000
+sg10
+(lp3001
+S'it occured to sb that'
+p3002
+aS'something occur to sb'
+p3003
+aS'sb come up with sth'
+p3004
+aS'sth strike sb'
+p3005
+aS'sb think of sth'
+p3006
+asbag1
+(g2
+g3
+Ntp3007
+Rp3008
+(dp3009
+g7
+I3
+sg8
+S'\xe5\x9c\xa8\xe6\x8e\xa5\xe4\xb8\x8b\xe6\x9d\xa5\xe7\x9a\x84\xe5\x87\xa0\xe5\xa4\xa9'
+p3010
+sg10
+(lp3011
+S'in the following days'
+p3012
+aS'in the days that follow'
+p3013
+aS'in the days to follow'
+p3014
+asbag1
+(g2
+g3
+Ntp3015
+Rp3016
+(dp3017
+g7
+I3
+sg8
+S'\xe5\xb0\xbd\xe7\xae\xa1,'
+p3018
+sg10
+(lp3019
+S'in spite that'
+p3020
+aS'despite the fact that'
+p3021
+aS'for all that'
+p3022
+asbag1
+(g2
+g3
+Ntp3023
+Rp3024
+(dp3025
+g7
+I3
+sg8
+S'\xe7\xa6\x81\xe6\xad\xa2\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p3026
+sg10
+(lp3027
+S'ban sb from doing sth'
+p3028
+aS'forbid sb to do'
+p3029
+aS'prohibit sb from doing'
+p3030
+asbag1
+(g2
+g3
+Ntp3031
+Rp3032
+(dp3033
+g7
+I2
+sg8
+S'\xe8\xbf\xab\xe4\xbd\xbf\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p3034
+sg10
+(lp3035
+S'force sb to do sth'
+p3036
+aS'oblige sb to do sth'
+p3037
+asbag1
+(g2
+g3
+Ntp3038
+Rp3039
+(dp3040
+g7
+I8
+sg8
+S'\xe5\xbd\xa2\xe6\x88\x90\xe7\x9a\x84\xe4\xb9\xa0\xe6\x83\xaf'
+p3041
+sg10
+(lp3042
+S'form the habit of'
+p3043
+aS'come into the habit of'
+p3044
+aS'have the habit of'
+p3045
+aS'get into the habit of'
+p3046
+aS'get rid of the habit of'
+p3047
+aS'beat away the habit of '
+p3048
+aS'get out of the habit of'
+p3049
+aS'cure sb of the habit'
+p3050
+asbag1
+(g2
+g3
+Ntp3051
+Rp3052
+(dp3053
+g7
+I1
+sg8
+S'\xe6\x89\x93\xe4\xb8\x8b\xe5\x9d\x9a\xe5\xae\x9e\xe7\x9a\x84\xe5\x9f\xba\xe7\xa1\x80'
+p3054
+sg10
+(lp3055
+S'lay a solid foundation for'
+p3056
+asbag1
+(g2
+g3
+Ntp3057
+Rp3058
+(dp3059
+g7
+I2
+sg8
+S'\xe6\x98\xaf\xe5\x85\x8d\xe8\xb4\xb9\xe7\x9a\x84'
+p3060
+sg10
+(lp3061
+S'be free of'
+p3062
+aS'be free from'
+p3063
+asbag1
+(g2
+g3
+Ntp3064
+Rp3065
+(dp3066
+g7
+I2
+sg8
+S'\xe6\x98\xaf\xe6\x9c\x8b\xe5\x8f\x8b'
+p3067
+sg10
+(lp3068
+S'be friend to'
+p3069
+aS'be friend with'
+p3070
+asbag1
+(g2
+g3
+Ntp3071
+Rp3072
+(dp3073
+g7
+I4
+sg8
+S'\xe5\xae\x9e\xe7\x8e\xb0\xe7\x9a\x84\xe7\x9b\xae\xe6\xa0\x87'
+p3074
+sg10
+(lp3075
+S"achieve one's goal"
+p3076
+aS"fullfill one's goal"
+p3077
+aS"accomplish one's goal"
+p3078
+aS"realize one's goal"
+p3079
+asbag1
+(g2
+g3
+Ntp3080
+Rp3081
+(dp3082
+g7
+I3
+sg8
+S'\xe5\x85\x85\xe5\x88\x86\xe5\x88\xa9\xe7\x94\xa8'
+p3083
+sg10
+(lp3084
+S'make full use of'
+p3085
+aS'take full advantage of'
+p3086
+aS'make the best of'
+p3087
+asbag1
+(g2
+g3
+Ntp3088
+Rp3089
+(dp3090
+g7
+I8
+sg8
+S'\xe4\xb8\xba\xe6\x9f\x90\xe4\xba\xba\xe6\x8f\x90\xe4\xbe\x9b\xe6\x9f\x90\xe7\x89\xa9'
+p3091
+sg10
+(lp3092
+S'provide sb with sth'
+p3093
+aS'provide sth for sb'
+p3094
+aS'supply sb with sth'
+p3095
+aS'supply sth to sb'
+p3096
+aS'offer sb sth'
+p3097
+aS'offer sth to sb'
+p3098
+aS'furnish sb with sth'
+p3099
+aS'furnish sth to sb'
+p3100
+asbag1
+(g2
+g3
+Ntp3101
+Rp3102
+(dp3103
+g7
+I5
+sg8
+S'\xe6\x80\xbb\xe5\x85\xb1'
+p3104
+sg10
+(lp3105
+S'in all'
+p3106
+aS'in a nutshell'
+p3107
+aS'in general'
+p3108
+aS'generally speaking'
+p3109
+aS'on the whole'
+p3110
+asbag1
+(g2
+g3
+Ntp3111
+Rp3112
+(dp3113
+g7
+I3
+sg8
+S'\xe6\x9c\x89\xe4\xb8\x80\xe4\xb8\xaa\xe7\xae\x80\xe7\x9f\xad\xe7\x9a\x84\xe6\x89\xbf\xe8\xae\xa4'
+p3114
+sg10
+(lp3115
+S'have a brief acknowledge of'
+p3116
+aS'have a general acknowledge of'
+p3117
+aS'have a rough acknowledge of'
+p3118
+asbag1
+(g2
+g3
+Ntp3119
+Rp3120
+(dp3121
+g7
+I4
+sg8
+S'\xe6\x9c\x89\xe4\xb8\x80\xe4\xb8\xaa\xe4\xba\xba\xe6\x89\x8d'
+p3122
+sg10
+(lp3123
+S'have a talent for'
+p3124
+aS'be gifted in'
+p3125
+aS'have a gift for'
+p3126
+aS'be talented in'
+p3127
+asbag1
+(g2
+g3
+Ntp3128
+Rp3129
+(dp3130
+g7
+I4
+sg8
+S'\xe8\xad\xa6\xe5\x91\x8a\xe6\x9f\x90\xe4\xba\xba\xe6\x9f\x90\xe4\xba\x8b'
+p3131
+sg10
+(lp3132
+S'warn sb of sth'
+p3133
+aS'give a warning to sb'
+p3134
+aS'send a warning to sb'
+p3135
+aS'issue a warning to sb'
+p3136
+asbag1
+(g2
+g3
+Ntp3137
+Rp3138
+(dp3139
+g7
+I2
+sg8
+S'\xe5\xb1\x88\xe6\x9c\x8d'
+p3140
+sg10
+(lp3141
+S'give in'
+p3142
+aS'surrender'
+p3143
+asbag1
+(g2
+g3
+Ntp3144
+Rp3145
+(dp3146
+g7
+I2
+sg8
+S'\xe9\xab\x98\xe5\x85\xb4\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p3147
+sg10
+(lp3148
+S'be glad to do'
+p3149
+aS'be only to glad to do'
+p3150
+asbag1
+(g2
+g3
+Ntp3151
+Rp3152
+(dp3153
+g7
+I2
+sg8
+S'\xe4\xb9\x8d\xe4\xb8\x80\xe7\x9c\x8b'
+p3154
+sg10
+(lp3155
+S'at first sight'
+p3156
+aS'at first glance'
+p3157
+asbag1
+(g2
+g3
+Ntp3158
+Rp3159
+(dp3160
+g7
+I6
+sg8
+S'\xe5\xb0\xbd\xe5\x8a\x9b\xe5\x8e\xbb\xe5\x81\x9a'
+p3161
+sg10
+(lp3162
+S"try one's best to do"
+p3163
+aS"do one's best to do"
+p3164
+aS'make every effort to do sth'
+p3165
+aS'spare no effort to do sth'
+p3166
+aS'make efforts to do'
+p3167
+aS'go all out to do sth'
+p3168
+asbag1
+(g2
+g3
+Ntp3169
+Rp3170
+(dp3171
+g7
+I2
+sg8
+S'\xe7\x9a\x84\xe5\xa5\xbd'
+p3172
+sg10
+(lp3173
+S'for the good of'
+p3174
+aS'for the benefit of'
+p3175
+asbag1
+(g2
+g3
+Ntp3176
+Rp3177
+(dp3178
+g7
+I5
+sg8
+S'\xe6\x98\xaf\xe5\xa5\xbd\xe5\xa4\x84'
+p3179
+sg10
+(lp3180
+S'be benefit to'
+p3181
+aS'be good forr'
+p3182
+aS'do good to'
+p3183
+aS'be of benefit to'
+p3184
+aS'benefit'
+p3185
+asbag1
+(g2
+g3
+Ntp3186
+Rp3187
+(dp3188
+g7
+I3
+sg8
+S'\xe6\x8a\x93\xe4\xbd\x8f\xe6\x9c\xba\xe4\xbc\x9a'
+p3189
+sg10
+(lp3190
+S'catch the chance'
+p3191
+aS'grasp the chance'
+p3192
+aS'seize the chance'
+p3193
+asbag1
+(g2
+g3
+Ntp3194
+Rp3195
+(dp3196
+g7
+I4
+sg8
+S'\xe6\x84\x9f\xe6\xbf\x80'
+p3197
+sg10
+(lp3198
+S'be grateful to'
+p3199
+aS'be thankful to'
+p3200
+aS'be obliged to sb for sth'
+p3201
+aS'thank sb for sth'
+p3202
+asbag1
+(g2
+g3
+Ntp3203
+Rp3204
+(dp3205
+g7
+I9
+sg8
+S'\xe6\x9c\x89\xe4\xb8\x80\xe4\xb8\xaa\xe6\xb8\xb4\xe6\x9c\x9b'
+p3206
+sg10
+(lp3207
+S'have a desire for'
+p3208
+aS'be hungry for'
+p3209
+aS'be eager for'
+p3210
+aS'be desperate for'
+p3211
+aS'be dying for'
+p3212
+aS'be thirsty for'
+p3213
+aS'starve for'
+p3214
+aS'be anxious for'
+p3215
+aS'long for'
+p3216
+asbag1
+(g2
+g3
+Ntp3217
+Rp3218
+(dp3219
+g7
+I2
+sg8
+S'\xe6\x9c\x80\xe5\xb0\x8a\xe8\xb4\xb5\xe7\x9a\x84\xe5\xae\xa2\xe4\xba\xba'
+p3220
+sg10
+(lp3221
+S'the guest of honor'
+p3222
+aS'the distinguished guest'
+p3223
+asbag1
+(g2
+g3
+Ntp3224
+Rp3225
+(dp3226
+g7
+I2
+sg8
+S'\xe6\x94\xbe\xe5\xbc\x83\xe4\xb8\x80\xe5\x8d\x8a'
+p3227
+sg10
+(lp3228
+S'give up half way'
+p3229
+aS'do sth by half'
+p3230
+asbag1
+(g2
+g3
+Ntp3231
+Rp3232
+(dp3233
+g7
+I2
+sg8
+S'\xe5\x88\x86\xe5\x8f\x91'
+p3234
+sg10
+(lp3235
+S'hand out'
+p3236
+aS'give out'
+p3237
+asbag1
+(g2
+g3
+Ntp3238
+Rp3239
+(dp3240
+g7
+I5
+sg8
+S'\xe6\xad\xa3\xe5\x9c\xa8\xe6\x8e\xa5\xe8\xbf\x91'
+p3241
+sg10
+(lp3242
+S'be approaching'
+p3243
+aS'be comming'
+p3244
+aS'draw near'
+p3245
+aS'be attend'
+p3246
+aS'be around the corner/in the air'
+p3247
+asbag1
+(g2
+g3
+Ntp3248
+Rp3249
+(dp3250
+g7
+I3
+sg8
+S'\xe6\x98\xaf\xe4\xb8\xa5\xe9\x87\x8d\xe7\x9a\x84'
+p3251
+sg10
+(lp3252
+S'be severe to'
+p3253
+aS'be strict with'
+p3254
+aS'be hard on'
+p3255
+asbag1
+(g2
+g3
+Ntp3256
+Rp3257
+(dp3258
+g7
+I4
+sg8
+S'\xe6\x9c\x89\xe5\x9b\xb0\xe9\x9a\xbe\xe5\x81\x9a'
+p3259
+sg10
+(lp3260
+S'have difficulty in doing'
+p3261
+aS'have difficulty with'
+p3262
+aS'have fun in doing'
+p3263
+aS'have fun with'
+p3264
+asbag1
+(g2
+g3
+Ntp3265
+Rp3266
+(dp3267
+g7
+I7
+sg8
+S'\xe6\x9c\x89\xe5\x85\xb3'
+p3268
+sg10
+(lp3269
+S'be related to'
+p3270
+aS'be associated with'
+p3271
+aS'be linked to'
+p3272
+aS'be connected with'
+p3273
+aS'be concerned about'
+p3274
+aS'be relevant to'
+p3275
+aS'have sth to do with'
+p3276
+asbag1
+(g2
+g3
+Ntp3277
+Rp3278
+(dp3279
+g7
+I4
+sg8
+S'\xe8\xb5\xb0\xe5\x90\x91'
+p3280
+sg10
+(lp3281
+S'walk towards'
+p3282
+aS'head for'
+p3283
+aS'make for'
+p3284
+aS"make one's way to"
+p3285
+asbag1
+(g2
+g3
+Ntp3286
+Rp3287
+(dp3288
+g7
+I3
+sg8
+S'\xe5\xb8\xae\xe6\x9f\x90\xe4\xba\xba\xe4\xb8\x80\xe4\xb8\xaa\xe5\xbf\x99'
+p3289
+sg10
+(lp3290
+S'lend sb a hand'
+p3291
+aS"come to one's help"
+p3292
+aS"come to one's aid"
+p3293
+asbag1
+(g2
+g3
+Ntp3294
+Rp3295
+(dp3296
+g7
+I4
+sg8
+S'\xe8\xb5\x9e\xe6\x89\xac'
+p3297
+sg10
+(lp3298
+S'speak highly of'
+p3299
+aS'sing high'
+p3300
+aS'praise sb for'
+p3301
+aS'think ill fo'
+p3302
+asbag1
+(g2
+g3
+Ntp3303
+Rp3304
+(dp3305
+g7
+I4
+sg8
+S'\xe6\x8e\xa7\xe5\x88\xb6\xe7\x9c\xbc\xe6\xb3\xaa'
+p3306
+sg10
+(lp3307
+S'control the tears'
+p3308
+aS'hold back the tears'
+p3309
+aS'take back the tears'
+p3310
+aS"restrain one's tears"
+p3311
+asbag1
+(g2
+g3
+Ntp3312
+Rp3313
+(dp3314
+g7
+I2
+sg8
+S'\xe6\x98\xaf\xe5\xbf\x83\xe6\x83\x85\xe5\xbe\x88\xe5\xa5\xbd'
+p3315
+sg10
+(lp3316
+S'be in a good mood'
+p3317
+aS'be in a bad mood'
+p3318
+asbag1
+(g2
+g3
+Ntp3319
+Rp3320
+(dp3321
+g7
+I3
+sg8
+S'\xe7\x9a\x84\xe5\x90\x8d\xe4\xb9\x89'
+p3322
+sg10
+(lp3323
+S'in the name of'
+p3324
+aS'in memory of'
+p3325
+aS'in honor of'
+p3326
 asba.

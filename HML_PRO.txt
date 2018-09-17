@@ -1394,3 +1394,279 @@
   > instruct
   > instruction
   > instructive
+[353] 疲惫
+  > exhausted
+  > be used up
+  > be worn out
+  > give out
+  > run out of
+[354] 展出
+  > on exhibit
+  > on display
+  > on show
+  > on exhibition
+[355] 形成
+  > come into being
+  > come into existance
+[356] 拓宽一个人的观点
+  > broaden one's view
+  > expand one's mind
+  > open up one's horizon
+[357] 开展实验
+  > carry out the experiment
+  > conduct the experiment
+  > do the experiment
+  > make the experiment
+  > perform the experiment
+[358] 表达同情
+  > express sympathy
+  > express fear
+  > express anger
+[359] 给某人的问候
+  > send one's greeting to
+  > extent one's greeting to
+  > send regard to
+  > send compliment to
+  > send granting to
+  > send best wishes to
+  > remember A to B
+[360] 在某种程度上
+  > to some extent
+  > to some degree
+  > to some point
+[361] 面对困难
+  > face difficulty
+  > be faced with difficulty
+[362] 面对东部
+  > face east
+  > face to the east
+[363] 失去信心
+  > lose confidence in
+  > lose faith in
+[364] 某人熟悉…
+  > sb be familiar with sth
+  > sth be familiar to sb
+[365] 渴望
+  > be keen on
+  > be interested in
+  > be fond of
+  > have a fancy for
+[366] 远离高兴
+  > far from pleased
+  > far from satisfactory
+  > far less than
+[367] 在时尚
+  > be in fashion
+  > be in style
+  > come into fashion
+  > be fashionable
+[368] 过时了
+  > out of date
+  > out of fashion
+  > out of time
+  > out of style
+[369] 熟睡
+  > sound asleep
+  > fast asleep
+[370] 讲究
+  > be particular about
+  > be critical with
+  > find fault with
+  > be critical of
+[371] 支持某人
+  > support sb
+  > in favor of sb
+  > be for sb
+  > on one's side
+[372] 腻
+  > be bored with
+  > be tired of
+  > be sick of
+  > fed up with
+[373] 放火烧了房子
+  > set fire to the house
+  > set the house on fire
+[374] 集中注意力于
+  > focus one's attention on
+  > concentrate on
+  > pay attention to
+  > fix one's attention on
+  > fix one's eyes on
+[375] 向某人发生
+  > it occured to sb that
+  > something occur to sb
+  > sb come up with sth
+  > sth strike sb
+  > sb think of sth
+[376] 在接下来的几天
+  > in the following days
+  > in the days that follow
+  > in the days to follow
+[377] 尽管,
+  > in spite that
+  > despite the fact that
+  > for all that
+[378] 禁止某人做某事
+  > ban sb from doing sth
+  > forbid sb to do
+  > prohibit sb from doing
+[379] 迫使某人做某事
+  > force sb to do sth
+  > oblige sb to do sth
+[380] 形成的习惯
+  > form the habit of
+  > come into the habit of
+  > have the habit of
+  > get into the habit of
+  > get rid of the habit of
+  > beat away the habit of 
+  > get out of the habit of
+  > cure sb of the habit
+[381] 打下坚实的基础
+  > lay a solid foundation for
+[382] 是免费的
+  > be free of
+  > be free from
+[383] 是朋友
+  > be friend to
+  > be friend with
+[384] 实现的目标
+  > achieve one's goal
+  > fullfill one's goal
+  > accomplish one's goal
+  > realize one's goal
+[385] 充分利用
+  > make full use of
+  > take full advantage of
+  > make the best of
+[386] 为某人提供某物
+  > provide sb with sth
+  > provide sth for sb
+  > supply sb with sth
+  > supply sth to sb
+  > offer sb sth
+  > offer sth to sb
+  > furnish sb with sth
+  > furnish sth to sb
+[387] 总共
+  > in all
+  > in a nutshell
+  > in general
+  > generally speaking
+  > on the whole
+[388] 有一个简短的承认
+  > have a brief acknowledge of
+  > have a general acknowledge of
+  > have a rough acknowledge of
+[389] 有一个人才
+  > have a talent for
+  > be gifted in
+  > have a gift for
+  > be talented in
+[390] 警告某人某事
+  > warn sb of sth
+  > give a warning to sb
+  > send a warning to sb
+  > issue a warning to sb
+[391] 屈服
+  > give in
+  > surrender
+[392] 高兴做某事
+  > be glad to do
+  > be only to glad to do
+[393] 乍一看
+  > at first sight
+  > at first glance
+[394] 尽力去做
+  > try one's best to do
+  > do one's best to do
+  > make every effort to do sth
+  > spare no effort to do sth
+  > make efforts to do
+  > go all out to do sth
+[395] 的好
+  > for the good of
+  > for the benefit of
+[396] 是好处
+  > be benefit to
+  > be good forr
+  > do good to
+  > be of benefit to
+  > benefit
+[397] 抓住机会
+  > catch the chance
+  > grasp the chance
+  > seize the chance
+[398] 感激
+  > be grateful to
+  > be thankful to
+  > be obliged to sb for sth
+  > thank sb for sth
+[399] 有一个渴望
+  > have a desire for
+  > be hungry for
+  > be eager for
+  > be desperate for
+  > be dying for
+  > be thirsty for
+  > starve for
+  > be anxious for
+  > long for
+[400] 最尊贵的客人
+  > the guest of honor
+  > the distinguished guest
+[401] 放弃一半
+  > give up half way
+  > do sth by half
+[402] 分发
+  > hand out
+  > give out
+[403] 正在接近
+  > be approaching
+  > be comming
+  > draw near
+  > be attend
+  > be around the corner/in the air
+[404] 是严重的
+  > be severe to
+  > be strict with
+  > be hard on
+[405] 有困难做
+  > have difficulty in doing
+  > have difficulty with
+  > have fun in doing
+  > have fun with
+[406] 有关
+  > be related to
+  > be associated with
+  > be linked to
+  > be connected with
+  > be concerned about
+  > be relevant to
+  > have sth to do with
+[407] 走向
+  > walk towards
+  > head for
+  > make for
+  > make one's way to
+[408] 帮某人一个忙
+  > lend sb a hand
+  > come to one's help
+  > come to one's aid
+[409] 赞扬
+  > speak highly of
+  > sing high
+  > praise sb for
+  > think ill fo
+[410] 控制眼泪
+  > control the tears
+  > hold back the tears
+  > take back the tears
+  > restrain one's tears
+[411] 是心情很好
+  > be in a good mood
+  > be in a bad mood
+[412] 的名义
+  > in the name of
+  > in memory of
+  > in honor of
