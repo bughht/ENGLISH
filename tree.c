@@ -20,6 +20,12 @@ NODE* NEWNODE(int i){
     return out;
 }
 
+TREE* NEWTREE(void){
+    TREE *out=malloc(sizeof(TREE));
+    out->head=NULL;
+    return out;
+}
+
 void TREEINSERT(TREE *t,NODE *n){
     if(t->head==NULL) t->head=n;
     else{
@@ -64,5 +70,11 @@ void PRINTTREE(TREE *t){
 }
 
 int main(void){
+    TREE *t=NEWTREE();
+    int list[]={1,8,6,9,4,2,5,7,3};
+    int i;
+    for(i=0;i<9;i++){
+
+    }
     return 0;
 }
