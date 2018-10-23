@@ -7884,4 +7884,2207 @@ aS'in memory of'
 p3325
 aS'in honor of'
 p3326
+asbag1
+(g2
+g3
+Ntp3327
+Rp3328
+(dp3329
+g7
+I2
+sg8
+S'\xe7\xbf\xbb\xe8\xaf\x91'
+p3330
+sg10
+(lp3331
+S'translate'
+p3332
+aS'interpret'
+p3333
+asbag1
+(g2
+g3
+Ntp3334
+Rp3335
+(dp3336
+g7
+I2
+sg8
+S'\xe6\x8a\x95\xe8\xb5\x84'
+p3337
+sg10
+(lp3338
+S'invest'
+p3339
+aS'investment'
+p3340
+asbag1
+(g2
+g3
+Ntp3341
+Rp3342
+(dp3343
+g7
+I3
+sg8
+S'\xe9\x82\x80\xe8\xaf\xb7'
+p3344
+sg10
+(lp3345
+S'invite'
+p3346
+aS'invitation'
+p3347
+aS'invitating'
+p3348
+asbag1
+(g2
+g3
+Ntp3349
+Rp3350
+(dp3351
+g7
+I2
+sg8
+S'\xe5\xb8\xb8\xe8\xa7\x84\xe7\x9a\x84'
+p3352
+sg10
+(lp3353
+S'regular'
+p3354
+aS'irregular'
+p3355
+asbag1
+(g2
+g3
+Ntp3356
+Rp3357
+(dp3358
+g7
+I2
+sg8
+S'\xe7\x9b\x91\xe7\x8b\xb1'
+p3359
+sg10
+(lp3360
+S'jail'
+p3361
+aS'prison'
+p3362
+asbag1
+(g2
+g3
+Ntp3363
+Rp3364
+(dp3365
+g7
+I3
+sg8
+S'\xe6\x9c\x80\xe8\xbf\x91'
+p3366
+sg10
+(lp3367
+S'recently'
+p3368
+aS'lately'
+p3369
+aS'nowadays'
+p3370
+asbag1
+(g2
+g3
+Ntp3371
+Rp3372
+(dp3373
+g7
+I2
+sg8
+S'\xe6\xb3\x95\xe5\xbe\x8b'
+p3374
+sg10
+(lp3375
+S'legal'
+p3376
+aS'illegal'
+p3377
+asbag1
+(g2
+g3
+Ntp3378
+Rp3379
+(dp3380
+g7
+I2
+sg8
+S'\xe7\x94\xb5\xe6\xa2\xaf'
+p3381
+sg10
+(lp3382
+S'elevator'
+p3383
+aS'lift'
+p3384
+asbag1
+(g2
+g3
+Ntp3385
+Rp3386
+(dp3387
+g7
+I3
+sg8
+S'\xe8\xba\xba\xe8\xba\xba\xe8\xba\xba'
+p3388
+sg10
+(lp3389
+S'lie lay lain'
+p3390
+aS'lie lied lied'
+p3391
+aS'lay laid laid'
+p3392
+asbag1
+(g2
+g3
+Ntp3393
+Rp3394
+(dp3395
+g7
+I2
+sg8
+S'\xe5\xa4\xb1\xe5\x8e\xbb'
+p3396
+sg10
+(lp3397
+S'lose'
+p3398
+aS'loss'
+p3399
+asbag1
+(g2
+g3
+Ntp3400
+Rp3401
+(dp3402
+g7
+I2
+sg8
+S'\xe5\xbf\xa0\xe8\xaf\x9a'
+p3403
+sg10
+(lp3404
+S'loyalty'
+p3405
+aS'loyal'
+p3406
+asbag1
+(g2
+g3
+Ntp3407
+Rp3408
+(dp3409
+g7
+I2
+sg8
+S'\xe8\xa1\x8c\xe6\x9d\x8e'
+p3410
+sg10
+(lp3411
+S'luggage'
+p3412
+aS'baggage'
+p3413
+asbag1
+(g2
+g3
+Ntp3414
+Rp3415
+(dp3416
+g7
+I2
+sg8
+S'\xe5\xa5\xa2\xe4\xbe\x88\xe5\x93\x81'
+p3417
+sg10
+(lp3418
+S'luxury'
+p3419
+aS'luxurious'
+p3420
+asbag1
+(g2
+g3
+Ntp3421
+Rp3422
+(dp3423
+g7
+I2
+sg8
+S'\xe9\xad\x94\xe6\xb3\x95'
+p3424
+sg10
+(lp3425
+S'magic'
+p3426
+aS'magical'
+p3427
+asbag1
+(g2
+g3
+Ntp3428
+Rp3429
+(dp3430
+g7
+I2
+sg8
+S'\xe8\x89\xaf\xe5\xa5\xbd\xe7\x9a\x84\xe4\xb8\xbe\xe6\xad\xa2'
+p3431
+sg10
+(lp3432
+S'good manners'
+p3433
+aS'bad manners'
+p3434
+asbag1
+(g2
+g3
+Ntp3435
+Rp3436
+(dp3437
+g7
+I1
+sg8
+S'\xe5\x88\xb6\xe9\x80\xa0'
+p3438
+sg10
+(lp3439
+S'manufacture'
+p3440
+asbag1
+(g2
+g3
+Ntp3441
+Rp3442
+(dp3443
+g7
+I2
+sg8
+S'\xe5\xa5\x87\xe8\xbf\xb9'
+p3444
+sg10
+(lp3445
+S'marvel'
+p3446
+aS'marvelous'
+p3447
+asbag1
+(g2
+g3
+Ntp3448
+Rp3449
+(dp3450
+g7
+I2
+sg8
+S'\xe5\xa4\x9a\xe6\x95\xb0'
+p3451
+sg10
+(lp3452
+S'majority'
+p3453
+aS'minority'
+p3454
+asbag1
+(g2
+g3
+Ntp3455
+Rp3456
+(dp3457
+g7
+I2
+sg8
+S'\xe5\xa5\x87\xe8\xbf\xb9'
+p3458
+sg10
+(lp3459
+S'miracle'
+p3460
+aS'miraculous'
+p3461
+asbag1
+(g2
+g3
+Ntp3462
+Rp3463
+(dp3464
+g7
+I3
+sg8
+S'\xe7\x97\x9b\xe8\x8b\xa6'
+p3465
+sg10
+(lp3466
+S'misery'
+p3467
+aS'miseriable'
+p3468
+aS'tragedy'
+p3469
+asbag1
+(g2
+g3
+Ntp3470
+Rp3471
+(dp3472
+g7
+I3
+sg8
+S'\xe6\xb7\xb7\xe5\x90\x88'
+p3473
+sg10
+(lp3474
+S'mix'
+p3475
+aS'mixture'
+p3476
+aS'mix'
+p3477
+asbag1
+(g2
+g3
+Ntp3478
+Rp3479
+(dp3480
+g7
+I2
+sg8
+S'\xe9\x81\x93\xe5\xbe\xb7'
+p3481
+sg10
+(lp3482
+S'moral'
+p3483
+aS'morality'
+p3484
+asbag1
+(g2
+g3
+Ntp3485
+Rp3486
+(dp3487
+g7
+I5
+sg8
+S'\xe6\xad\xa4\xe5\xa4\x96'
+p3488
+sg10
+(lp3489
+S'furthermore'
+p3490
+aS'moreover'
+p3491
+aS'in addition'
+p3492
+aS'besides'
+p3493
+aS'apart from'
+p3494
+asbag1
+(g2
+g3
+Ntp3495
+Rp3496
+(dp3497
+g7
+I2
+sg8
+S'\xe7\xa5\x9e\xe7\xa7\x98\xe7\x9a\x84'
+p3498
+sg10
+(lp3499
+S'mysterious'
+p3500
+aS'mystery'
+p3501
+asbag1
+(g2
+g3
+Ntp3502
+Rp3503
+(dp3504
+g7
+I2
+sg8
+S'\xe8\x87\xaa\xe7\x84\xb6'
+p3505
+sg10
+(lp3506
+S'nature'
+p3507
+aS'natural'
+p3508
+asbag1
+(g2
+g3
+Ntp3509
+Rp3510
+(dp3511
+g7
+I3
+sg8
+S'\xe5\x9b\xbd\xe5\xae\xb6'
+p3512
+sg10
+(lp3513
+S'nation'
+p3514
+aS'national'
+p3515
+aS'nationality'
+p3516
+asbag1
+(g2
+g3
+Ntp3517
+Rp3518
+(dp3519
+g7
+I2
+sg8
+S'\xe5\xbf\x85\xe8\xa6\x81\xe7\x9a\x84'
+p3520
+sg10
+(lp3521
+S'necessary'
+p3522
+aS'necessity'
+p3523
+asbag1
+(g2
+g3
+Ntp3524
+Rp3525
+(dp3526
+g7
+I2
+sg8
+S'\xe7\xa7\xaf\xe6\x9e\x81\xe7\x9a\x84'
+p3527
+sg10
+(lp3528
+S'positive'
+p3529
+aS'negative'
+p3530
+asbag1
+(g2
+g3
+Ntp3531
+Rp3532
+(dp3533
+g7
+I2
+sg8
+S'\xe8\xb0\x88\xe5\x88\xa4'
+p3534
+sg10
+(lp3535
+S'negotiate'
+p3536
+aS'negotiation'
+p3537
+asbag1
+(g2
+g3
+Ntp3538
+Rp3539
+(dp3540
+g7
+I2
+sg8
+S'\xe4\xbe\x84\xe5\xad\x90'
+p3541
+sg10
+(lp3542
+S'nephew'
+p3543
+aS'niece'
+p3544
+asbag1
+(g2
+g3
+Ntp3545
+Rp3546
+(dp3547
+g7
+I3
+sg8
+S'\xe4\xb8\x8d\xe8\xbf\x87'
+p3548
+sg10
+(lp3549
+S'nevertheless'
+p3550
+aS'however'
+p3551
+aS'nonetheless'
+p3552
+asbag1
+(g2
+g3
+Ntp3553
+Rp3554
+(dp3555
+g7
+I2
+sg8
+S'\xe6\xad\xa3\xe5\xb8\xb8\xe7\x9a\x84'
+p3556
+sg10
+(lp3557
+S'normal'
+p3558
+aS'abnormal'
+p3559
+asbag1
+(g2
+g3
+Ntp3560
+Rp3561
+(dp3562
+g7
+I1
+sg8
+S'\xe6\x89\x98\xe5\x84\xbf\xe6\x89\x80'
+p3563
+sg10
+(lp3564
+S'nursery'
+p3565
+asbag1
+(g2
+g3
+Ntp3566
+Rp3567
+(dp3568
+g7
+I1
+sg8
+S'\xe5\xb9\xbc\xe5\x84\xbf\xe5\x9b\xad'
+p3569
+sg10
+(lp3570
+S'kindergarten'
+p3571
+asbag1
+(g2
+g3
+Ntp3572
+Rp3573
+(dp3574
+g7
+I1
+sg8
+S'\xe5\x85\xbb\xe8\x80\x81\xe9\x99\xa2'
+p3575
+sg10
+(lp3576
+S'nursing home'
+p3577
+asbag1
+(g2
+g3
+Ntp3578
+Rp3579
+(dp3580
+g7
+I3
+sg8
+S'\xe8\x90\xa5\xe5\x85\xbb'
+p3581
+sg10
+(lp3582
+S'nutrition'
+p3583
+aS'nutrient'
+p3584
+aS'nutritious'
+p3585
+asbag1
+(g2
+g3
+Ntp3586
+Rp3587
+(dp3588
+g7
+I3
+sg8
+S'\xe6\x9c\x8d\xe4\xbb\x8e'
+p3589
+sg10
+(lp3590
+S'obey'
+p3591
+aS'observe'
+p3592
+aS'disobey'
+p3593
+asbag1
+(g2
+g3
+Ntp3594
+Rp3595
+(dp3596
+g7
+I6
+sg8
+S'\xe8\x8e\xb7\xe5\xbe\x97'
+p3597
+sg10
+(lp3598
+S'obtain'
+p3599
+aS'acquire'
+p3600
+aS'get'
+p3601
+aS'gain'
+p3602
+aS'achieve'
+p3603
+aS'accomplish'
+p3604
+asbag1
+(g2
+g3
+Ntp3605
+Rp3606
+(dp3607
+g7
+I3
+sg8
+S'\xe8\xb5\xb7\xe6\xba\x90'
+p3608
+sg10
+(lp3609
+S'origin'
+p3610
+aS'origin'
+p3611
+aS'original'
+p3612
+asbag1
+(g2
+g3
+Ntp3613
+Rp3614
+(dp3615
+g7
+I5
+sg8
+S'\xe6\x9d\xb0\xe5\x87\xba\xe7\x9a\x84'
+p3616
+sg10
+(lp3617
+S'outstanding'
+p3618
+aS'remarkable'
+p3619
+aS'extraordinary'
+p3620
+aS'exceptional'
+p3621
+aS'distinguished'
+p3622
+asbag1
+(g2
+g3
+Ntp3623
+Rp3624
+(dp3625
+g7
+I2
+sg8
+S'\xe5\x8f\x82\xe4\xb8\x8e'
+p3626
+sg10
+(lp3627
+S'participate'
+p3628
+aS'participant'
+p3629
+asbag1
+(g2
+g3
+Ntp3630
+Rp3631
+(dp3632
+g7
+I2
+sg8
+S'\xe7\x89\xb9\xe5\xae\x9a\xe7\x9a\x84'
+p3633
+sg10
+(lp3634
+S'particular'
+p3635
+aS'especially'
+p3636
+asbag1
+(g2
+g3
+Ntp3637
+Rp3638
+(dp3639
+g7
+I3
+sg8
+S'\xe7\x88\xb1\xe5\x9b\xbd'
+p3640
+sg10
+(lp3641
+S'patriotic'
+p3642
+aS'patriotism'
+p3643
+aS'patriot'
+p3644
+asbag1
+(g2
+g3
+Ntp3645
+Rp3646
+(dp3647
+g7
+I6
+sg8
+S'\xe5\x81\x9a\xe4\xb8\x80\xe4\xb8\xaa\xe8\xb0\x83\xe6\x9f\xa5'
+p3648
+sg10
+(lp3649
+S'make an investigation'
+p3650
+aS'conduct an investigation'
+p3651
+aS'carry out an investigation'
+p3652
+aS'perform an investigation'
+p3653
+aS'investigate on'
+p3654
+aS'look into'
+p3655
+asbag1
+(g2
+g3
+Ntp3656
+Rp3657
+(dp3658
+g7
+I2
+sg8
+S'\xe5\x88\x86\xe7\xa6\xbb\xe4\xb8\x80\xe4\xb8\xaa\xe4\xbb\x8eB'
+p3659
+sg10
+(lp3660
+S'seperate A from B'
+p3661
+aS'isolate A from B'
+p3662
+asbag1
+(g2
+g3
+Ntp3663
+Rp3664
+(dp3665
+g7
+I2
+sg8
+S'\xe5\xab\x89\xe5\xa6\x92'
+p3666
+sg10
+(lp3667
+S'be envious of'
+p3668
+aS'be jealous of'
+p3669
+asbag1
+(g2
+g3
+Ntp3670
+Rp3671
+(dp3672
+g7
+I5
+sg8
+S'\xe5\xaf\xbb\xe6\x89\xbe\xe4\xb8\x80\xe4\xbb\xbd\xe5\xb7\xa5\xe4\xbd\x9c'
+p3673
+sg10
+(lp3674
+S'hunt for a job'
+p3675
+aS'find a job'
+p3676
+aS'quit a job'
+p3677
+aS'retire from a job'
+p3678
+aS'resign'
+p3679
+asbag1
+(g2
+g3
+Ntp3680
+Rp3681
+(dp3682
+g7
+I6
+sg8
+S'\xe6\x8e\x92\xe9\x98\x9f'
+p3683
+sg10
+(lp3684
+S'line up'
+p3685
+aS'join a que'
+p3686
+aS'be in a que'
+p3687
+aS'be in a role'
+p3688
+aS'be in a line'
+p3689
+aS'jump a que'
+p3690
+asbag1
+(g2
+g3
+Ntp3691
+Rp3692
+(dp3693
+g7
+I3
+sg8
+S'\xe4\xb8\x8e\xe2\x80\xa6\xe6\x9c\x89\xe5\x85\xb3'
+p3694
+sg10
+(lp3695
+S'be linked with'
+p3696
+aS'be linked to'
+p3697
+aS'be associated with'
+p3698
+asbag1
+(g2
+g3
+Ntp3699
+Rp3700
+(dp3701
+g7
+I1
+sg8
+S'\xe6\x89\xae\xe6\xbc\x94\xe4\xb8\x80\xe4\xb8\xaa\xe6\x81\xb6\xe4\xbd\x9c\xe5\x89\xa7'
+p3702
+sg10
+(lp3703
+S'play a practical joke on'
+p3704
+asbag1
+(g2
+g3
+Ntp3705
+Rp3706
+(dp3707
+g7
+I3
+sg8
+S'\xe5\x8e\xbb\xe6\x97\x85\xe8\xa1\x8c'
+p3708
+sg10
+(lp3709
+S'go traveling'
+p3710
+aS'go on a trip'
+p3711
+aS'go on a journey'
+p3712
+asbag1
+(g2
+g3
+Ntp3713
+Rp3714
+(dp3715
+g7
+I3
+sg8
+S'\xe4\xb8\x8d\xe5\xa6\xa8'
+p3716
+sg10
+(lp3717
+S'may as well'
+p3718
+aS'might as well'
+p3719
+aS'had better do'
+p3720
+asbag1
+(g2
+g3
+Ntp3721
+Rp3722
+(dp3723
+g7
+I4
+sg8
+S'\xe6\xb8\xb4\xe6\x9c\x9b'
+p3724
+sg10
+(lp3725
+S'be keen on'
+p3726
+aS'be fascinated with'
+p3727
+aS'be fond of'
+p3728
+aS'be interested in'
+p3729
+asbag1
+(g2
+g3
+Ntp3730
+Rp3731
+(dp3732
+g7
+I4
+sg8
+S'\xe9\x81\xb5\xe5\xae\x88\xe4\xba\xa4\xe9\x80\x9a\xe8\xa7\x84\xe5\x88\x99'
+p3733
+sg10
+(lp3734
+S'follow the traffic rule'
+p3735
+aS'obey the traffic rule'
+p3736
+aS'observe the traffic rule'
+p3737
+aS'keep to the traffic rule'
+p3738
+asbag1
+(g2
+g3
+Ntp3739
+Rp3740
+(dp3741
+g7
+I7
+sg8
+S'\xe6\x9c\x80\xe5\x90\x8e'
+p3742
+sg10
+(lp3743
+S'in the end'
+p3744
+aS'at last'
+p3745
+aS'finally'
+p3746
+aS'consequently'
+p3747
+aS'eventually'
+p3748
+aS'as a result'
+p3749
+aS'ultimately'
+p3750
+asbag1
+(g2
+g3
+Ntp3751
+Rp3752
+(dp3753
+g7
+I2
+sg8
+S'\xe8\xbf\x9f\xe5\x88\xb0\xe4\xba\x86'
+p3754
+sg10
+(lp3755
+S'be late for'
+p3756
+aS'come late to'
+p3757
+asbag1
+(g2
+g3
+Ntp3758
+Rp3759
+(dp3760
+g7
+I5
+sg8
+S'\xe8\xbf\x9d\xe5\x8f\x8d\xe6\xb3\x95\xe5\xbe\x8b'
+p3761
+sg10
+(lp3762
+S'break the law'
+p3763
+aS'be against the law'
+p3764
+aS'disobey the law'
+p3765
+aS'go against the lay'
+p3766
+aS'violate the law'
+p3767
+asbag1
+(g2
+g3
+Ntp3768
+Rp3769
+(dp3770
+g7
+I4
+sg8
+S'\xe8\xb4\xa3\xe5\xa4\x87\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p3771
+sg10
+(lp3772
+S'blame sb on sth'
+p3773
+aS'sb be to blame for sth'
+p3774
+aS'accuse sb of sth'
+p3775
+aS'blame sb for sth'
+p3776
+asbag1
+(g2
+g3
+Ntp3777
+Rp3778
+(dp3779
+g7
+I3
+sg8
+S'\xe5\xaf\xbc\xe8\x87\xb4\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p3780
+sg10
+(lp3781
+S'lead to sb to do sth'
+p3782
+aS'result in sb to do sth'
+p3783
+aS'cause sb to do sth'
+p3784
+asbag1
+(g2
+g3
+Ntp3785
+Rp3786
+(dp3787
+g7
+I2
+sg8
+S'\xe7\x95\x99\xe4\xb8\x8b\xe6\x9f\x90\xe4\xba\xba\xe4\xb8\x80\xe4\xb8\xaa\xe4\xba\xba'
+p3788
+sg10
+(lp3789
+S'leave sb alone'
+p3790
+aS'let sb alone'
+p3791
+asbag1
+(g2
+g3
+Ntp3792
+Rp3793
+(dp3794
+g7
+I5
+sg8
+S'\xe5\xb8\xae\xe6\x9f\x90\xe4\xba\xba\xe4\xb8\x80\xe4\xb8\xaa\xe5\xbf\x99'
+p3795
+sg10
+(lp3796
+S'lend sb a hand'
+p3797
+aS'do sb a favor'
+p3798
+aS'give sb a hand'
+p3799
+aS'offer sb a help'
+p3800
+aS"come to one's aid"
+p3801
+asbag1
+(g2
+g3
+Ntp3802
+Rp3803
+(dp3804
+g7
+I2
+sg8
+S'\xe5\x9c\xa8\xe4\xb8\x80\xe4\xb8\xaa\xe4\xba\xba\xe7\x9a\x84\xe9\x97\xb2\xe6\x9a\x87\xe6\x97\xb6\xe9\x97\xb4'
+p3805
+sg10
+(lp3806
+S"in one's leisure time"
+p3807
+aS"in one's free time"
+p3808
+asbag1
+(g2
+g3
+Ntp3809
+Rp3810
+(dp3811
+g7
+I2
+sg8
+S'\xe6\x9b\xb4\xe4\xb8\x8d\xe7\x94\xa8\xe8\xaf\xb4'
+p3812
+sg10
+(lp3813
+S'not to mention'
+p3814
+aS'let alone'
+p3815
+asbag1
+(g2
+g3
+Ntp3816
+Rp3817
+(dp3818
+g7
+I2
+sg8
+S'\xe8\xae\xa9\xe6\x9f\x90\xe4\xba\xba\xe6\x90\xad\xe8\xbd\xa6'
+p3819
+sg10
+(lp3820
+S'give sb a lift'
+p3821
+aS'give sb a ride'
+p3822
+asbag1
+(g2
+g3
+Ntp3823
+Rp3824
+(dp3825
+g7
+I7
+sg8
+S'\xe6\x84\xbf\xe6\x84\x8f\xe5\x81\x9a'
+p3826
+sg10
+(lp3827
+S'be willing to do'
+p3828
+aS'want to do'
+p3829
+aS'plan to do'
+p3830
+aS'mean to do'
+p3831
+aS'feel like doing'
+p3832
+aS'would like to do'
+p3833
+aS'intend to do'
+p3834
+asbag1
+(g2
+g3
+Ntp3835
+Rp3836
+(dp3837
+g7
+I5
+sg8
+S'\xe8\xbf\x99\xe6\x98\xaf\xe5\x8f\xaf\xe8\x83\xbd\xe7\x9a\x84,'
+p3838
+sg10
+(lp3839
+S"it's possible that"
+p3840
+aS'probable that'
+p3841
+aS'be likely to do'
+p3842
+aS"there's a possibility that"
+p3843
+aS"it's likely that"
+p3844
+asbag1
+(g2
+g3
+Ntp3845
+Rp3846
+(dp3847
+g7
+I2
+sg8
+S'\xe5\x89\x8d'
+p3848
+sg10
+(lp3849
+S'former'
+p3850
+aS'latter'
+p3851
+asbag1
+(g2
+g3
+Ntp3852
+Rp3853
+(dp3854
+g7
+I3
+sg8
+S'\xe7\xa6\xbb\xe5\xbc\x80'
+p3855
+sg10
+(lp3856
+S'leave for'
+p3857
+aS'ahead for'
+p3858
+aS'make for'
+p3859
+asbag1
+(g2
+g3
+Ntp3860
+Rp3861
+(dp3862
+g7
+I4
+sg8
+S'\xe4\xbd\x8d\xe4\xba\x8e'
+p3863
+sg10
+(lp3864
+S'be located in'
+p3865
+aS'lie in'
+p3866
+aS'stand in'
+p3867
+aS'be situated in'
+p3868
+asbag1
+(g2
+g3
+Ntp3869
+Rp3870
+(dp3871
+g7
+I2
+sg8
+S'\xe4\xbb\x8e\xe9\x95\xbf\xe8\xbf\x9c\xe6\x9d\xa5\xe7\x9c\x8b'
+p3872
+sg10
+(lp3873
+S'in the long run'
+p3874
+aS'in the long term'
+p3875
+asbag1
+(g2
+g3
+Ntp3876
+Rp3877
+(dp3878
+g7
+I9
+sg8
+S'\xe6\xb8\xb4\xe6\x9c\x9b'
+p3879
+sg10
+(lp3880
+S'be eager for'
+p3881
+aS'be hungry for'
+p3882
+aS'desire for'
+p3883
+aS'be thirsty for'
+p3884
+aS'be dying for'
+p3885
+aS'long for'
+p3886
+aS'be anxious for'
+p3887
+aS'be desperate for'
+p3888
+aS'starve for'
+p3889
+asbag1
+(g2
+g3
+Ntp3890
+Rp3891
+(dp3892
+g7
+I3
+sg8
+S'\xe6\x8a\x8a\xe6\x9f\x90\xe4\xba\xba\xe9\x80\xbc\xe7\x96\xaf'
+p3893
+sg10
+(lp3894
+S'drive sb mad'
+p3895
+aS'go mad'
+p3896
+aS"out of one's mind"
+p3897
+asbag1
+(g2
+g3
+Ntp3898
+Rp3899
+(dp3900
+g7
+I2
+sg8
+S'\xe7\xa2\xb0\xe7\xa2\xb0\xe8\xbf\x90\xe6\xb0\x94'
+p3901
+sg10
+(lp3902
+S"try one's luck"
+p3903
+aS"try one's fortune"
+p3904
+asbag1
+(g2
+g3
+Ntp3905
+Rp3906
+(dp3907
+g7
+I2
+sg8
+S'\xe4\xbf\x9d\xe6\x8c\x81\xe6\x9f\x90\xe7\x89\xa9'
+p3908
+sg10
+(lp3909
+S'maintain sth'
+p3910
+aS'keep sth in good condition'
+p3911
+asbag1
+(g2
+g3
+Ntp3912
+Rp3913
+(dp3914
+g7
+I3
+sg8
+S'\xe5\xa4\xa7\xe5\xa4\x9a\xe6\x95\xb0\xe5\xad\xa6\xe7\x94\x9f'
+p3915
+sg10
+(lp3916
+S'most students'
+p3917
+aS'the majority of students'
+p3918
+aS'most of the students'
+p3919
+asbag1
+(g2
+g3
+Ntp3920
+Rp3921
+(dp3922
+g7
+I7
+sg8
+S'\xe8\xae\xb8\xe5\xa4\x9a\xe5\xad\xa6\xe7\x94\x9f'
+p3923
+sg10
+(lp3924
+S'many students'
+p3925
+aS'a good many students'
+p3926
+aS'a large quantity of students'
+p3927
+aS'lots of students'
+p3928
+aS'many a good student'
+p3929
+aS'a good many students'
+p3930
+aS'quite a few students'
+p3931
+asbag1
+(g2
+g3
+Ntp3932
+Rp3933
+(dp3934
+g7
+I2
+sg8
+S'\xe5\xab\x81\xe7\xbb\x99'
+p3935
+sg10
+(lp3936
+S'be married to'
+p3937
+aS'marry'
+p3938
+asbag1
+(g2
+g3
+Ntp3939
+Rp3940
+(dp3941
+g7
+I2
+sg8
+S'\xe6\xaf\x94\xe8\xb5\x9b\xe2\x80\xa6'
+p3942
+sg10
+(lp3943
+S'match sth'
+p3944
+aS'go with sth'
+p3945
+asbag1
+(g2
+g3
+Ntp3946
+Rp3947
+(dp3948
+g7
+I3
+sg8
+S'\xe4\xba\x8b\xe5\xae\x9e\xe4\xb8\x8a'
+p3949
+sg10
+(lp3950
+S'in fact'
+p3951
+aS'as a matter of fact'
+p3952
+aS'actually'
+p3953
+asbag1
+(g2
+g3
+Ntp3954
+Rp3955
+(dp3956
+g7
+I4
+sg8
+S'\xe6\xbb\xa1\xe8\xb6\xb3\xe7\x9a\x84\xe8\xa6\x81\xe6\xb1\x82'
+p3957
+sg10
+(lp3958
+S'meet the requirement'
+p3959
+aS'meet the demand'
+p3960
+aS'meet the needs'
+p3961
+aS'meet the expection'
+p3962
+asbag1
+(g2
+g3
+Ntp3963
+Rp3964
+(dp3965
+g7
+I3
+sg8
+S'\xe4\xb8\x8e\xe6\xad\xa4\xe5\x90\x8c\xe6\x97\xb6'
+p3966
+sg10
+(lp3967
+S'meanwhile'
+p3968
+aS'at the same time'
+p3969
+aS'in the mean time'
+p3970
+asbag1
+(g2
+g3
+Ntp3971
+Rp3972
+(dp3973
+g7
+I3
+sg8
+S'\xe6\x9a\x82\xe6\x97\xb6'
+p3974
+sg10
+(lp3975
+S'temporarily'
+p3976
+aS'for the time being'
+p3977
+aS'for the moment'
+p3978
+asbag1
+(g2
+g3
+Ntp3979
+Rp3980
+(dp3981
+g7
+I6
+sg8
+S'\xe5\xbf\x83\xe6\x83\x85\xe5\xbe\x88\xe5\xa5\xbd'
+p3982
+sg10
+(lp3983
+S'in a good mood'
+p3984
+aS'in a bad mood'
+p3985
+aS'in a good humour'
+p3986
+aS'in a bad humour'
+p3987
+aS'in a high spirit'
+p3988
+aS'in a low spirit'
+p3989
+asbag1
+(g2
+g3
+Ntp3990
+Rp3991
+(dp3992
+g7
+I4
+sg8
+S'\xe9\xab\x98\xe5\x85\xb4\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p3993
+sg10
+(lp3994
+S'be glad to do'
+p3995
+aS'be willing to do'
+p3996
+aS'be pleased to do'
+p3997
+aS'be happy to do'
+p3998
+asbag1
+(g2
+g3
+Ntp3999
+Rp4000
+(dp4001
+g7
+I8
+sg8
+S'\xe7\xab\x8b\xe5\x8d\xb3'
+p4002
+sg10
+(lp4003
+S'instantly'
+p4004
+aS'immediately'
+p4005
+aS'in no time'
+p4006
+aS'at once'
+p4007
+aS'right now'
+p4008
+aS'right away'
+p4009
+aS'in a minute'
+p4010
+aS'in a moment'
+p4011
+asbag1
+(g2
+g3
+Ntp4012
+Rp4013
+(dp4014
+g7
+I6
+sg8
+S'\xe9\xbc\x93\xe5\x8a\xb1\xe6\x9f\x90\xe4\xba\xba\xe5\x8e\xbb\xe5\x81\x9a'
+p4015
+sg10
+(lp4016
+S'encourage sb to do'
+p4017
+aS'inspire sb to do'
+p4018
+aS'urge sb to do'
+p4019
+aS'motivate sb to do'
+p4020
+aS'push sb to do'
+p4021
+aS'stimulate sb to do'
+p4022
+asbag1
+(g2
+g3
+Ntp4023
+Rp4024
+(dp4025
+g7
+I2
+sg8
+S'\xe5\x8b\x89\xe5\xbc\xba\xe9\x80\x83\xe8\x84\xb1'
+p4026
+sg10
+(lp4027
+S'narrowly escape'
+p4028
+aS'a narrow escape'
+p4029
+asbag1
+(g2
+g3
+Ntp4030
+Rp4031
+(dp4032
+g7
+I4
+sg8
+S'\xe7\xbb\xb4\xe6\x8a\xa4'
+p4033
+sg10
+(lp4034
+S'maintain'
+p4035
+aS'keep'
+p4036
+aS'break'
+p4037
+aS'disturb'
+p4038
+asbag1
+(g2
+g3
+Ntp4039
+Rp4040
+(dp4041
+g7
+I2
+sg8
+S'\xe8\xbf\x9c\xe7\xa6\xbb'
+p4042
+sg10
+(lp4043
+S'far from'
+p4044
+aS'not nearly'
+p4045
+asbag1
+(g2
+g3
+Ntp4046
+Rp4047
+(dp4048
+g7
+I2
+sg8
+S'\xe5\xa6\x82\xe6\x9e\x9c\xe6\x9c\x89\xe5\xbf\x85\xe8\xa6\x81\xe7\x9a\x84\xe8\xaf\x9d'
+p4049
+sg10
+(lp4050
+S'if necessary'
+p4051
+aS'if possible'
+p4052
+asbag1
+(g2
+g3
+Ntp4053
+Rp4054
+(dp4055
+g7
+I3
+sg8
+S'\xe9\x9c\x80\xe8\xa6\x81'
+p4056
+sg10
+(lp4057
+S'need to be'
+p4058
+aS'require to be'
+p4059
+aS'want to be'
+p4060
+asbag1
+(g2
+g3
+Ntp4061
+Rp4062
+(dp4063
+g7
+I3
+sg8
+S'\xe6\xb3\x84\xe6\xbc\x8f\xe7\x9a\x84\xe6\xb6\x88\xe6\x81\xaf'
+p4064
+sg10
+(lp4065
+S'leak the news'
+p4066
+aS'give away the news'
+p4067
+aS'release/break news'
+p4068
+asbag1
+(g2
+g3
+Ntp4069
+Rp4070
+(dp4071
+g7
+I6
+sg8
+S'\xe6\x80\xa5\xe9\x9c\x80\xe2\x80\xa6'
+p4072
+sg10
+(lp4073
+S'need sth badly'
+p4074
+aS"there's a great need for sb to do"
+p4075
+aS"it's necessary for sb to do/that sb should do"
+p4076
+aS"it's essential for sb to do/that sb should do"
+p4077
+aS"it's important for sb to do/that sb should do"
+p4078
+aS"it's significant for sb to do/that sb should do"
+p4079
+asbag1
+(g2
+g3
+Ntp4080
+Rp4081
+(dp4082
+g7
+I2
+sg8
+S'\xe8\xbf\xab\xe5\x88\x87\xe9\x9c\x80\xe8\xa6\x81'
+p4083
+sg10
+(lp4084
+S'in urgent need of'
+p4085
+aS'in desperate need of'
+p4086
+asbag1
+(g2
+g3
+Ntp4087
+Rp4088
+(dp4089
+g7
+I3
+sg8
+S'\xe6\xb2\xa1\xe6\x9c\x89\xe7\x9f\xa5\xe9\x81\x93'
+p4090
+sg10
+(lp4091
+S"there's no knowing"
+p4092
+aS"there's no saying"
+p4093
+aS"there's no telling"
+p4094
+asbag1
+(g2
+g3
+Ntp4095
+Rp4096
+(dp4097
+g7
+I6
+sg8
+S'\xe6\x8b\x92\xe7\xbb\x9d'
+p4098
+sg10
+(lp4099
+S'turn down'
+p4100
+aS'refuse sth/sb'
+p4101
+aS'reject sb/sth'
+p4102
+aS'decline sb/sth'
+p4103
+aS'have none of sb/sth'
+p4104
+aS'~'
+p4105
+asbag1
+(g2
+g3
+Ntp4106
+Rp4107
+(dp4108
+g7
+I5
+sg8
+S'\xe5\x85\x8d\xe8\xb4\xb9'
+p4109
+sg10
+(lp4110
+S'for free'
+p4111
+aS'with no charge'
+p4112
+aS'for nothing'
+p4113
+aS'free of charge'
+p4114
+aS'free from charge'
+p4115
+asbag1
+(g2
+g3
+Ntp4116
+Rp4117
+(dp4118
+g7
+I3
+sg8
+S'\xe6\xb3\xa8\xe6\x84\x8f'
+p4119
+sg10
+(lp4120
+S'pay attention to'
+p4121
+aS'be aware of'
+p4122
+aS'take notice of'
+p4123
+asbag1
+(g2
+g3
+Ntp4124
+Rp4125
+(dp4126
+g7
+I4
+sg8
+S'\xe5\x8f\x8d\xe5\xaf\xb9'
+p4127
+sg10
+(lp4128
+S'be against'
+p4129
+aS'object to'
+p4130
+aS'be opposed to'
+p4131
+aS'oppose sth'
+p4132
+asbag1
+(g2
+g3
+Ntp4133
+Rp4134
+(dp4135
+g7
+I4
+sg8
+S'\xe7\x8e\xb0\xe5\x9c\xa8\xe5\x92\x8c\xe4\xbb\xa5\xe5\x90\x8e'
+p4136
+sg10
+(lp4137
+S'now and then'
+p4138
+aS'once in a while'
+p4139
+aS'on occasion'
+p4140
+aS'from time to time'
+p4141
+asbag1
+(g2
+g3
+Ntp4142
+Rp4143
+(dp4144
+g7
+I2
+sg8
+S'\xe5\x86\x92\xe7\x8a\xaf\xe6\x9f\x90\xe4\xba\xba'
+p4145
+sg10
+(lp4146
+S'offend sb'
+p4147
+aS'take offend at sb'
+p4148
+asbag1
+(g2
+g3
+Ntp4149
+Rp4150
+(dp4151
+g7
+I2
+sg8
+S'\xe8\xa2\xab\xe5\xbc\xba\xe8\xbf\xab\xe5\x8e\xbb\xe5\x81\x9a'
+p4152
+sg10
+(lp4153
+S'be forced to do'
+p4154
+aS'be obliged to do'
+p4155
+asbag1
+(g2
+g3
+Ntp4156
+Rp4157
+(dp4158
+g7
+I4
+sg8
+S'\xe5\x90\x91\xe6\x9f\x90\xe4\xba\xba\xe5\x8f\x91\xe7\x94\x9f'
+p4159
+sg10
+(lp4160
+S'it occured to sb that'
+p4161
+aS'sb come up with sth'
+p4162
+aS'sth strike on sb'
+p4163
+aS'sth hit on sb'
+p4164
+asbag1
+(g2
+g3
+Ntp4165
+Rp4166
+(dp4167
+g7
+I5
+sg8
+S'\xe4\xbd\x9c\xe7\x94\xa8\xe4\xba\x8e\xe6\x9f\x90\xe4\xba\xba'
+p4168
+sg10
+(lp4169
+S'operate on sb'
+p4170
+aS'conduct an operation on sb'
+p4171
+aS'carry out an operation on sb'
+p4172
+aS'perform an operation on sb'
+p4173
+aS'have an operation on sb'
+p4174
+asbag1
+(g2
+g3
+Ntp4175
+Rp4176
+(dp4177
+g7
+I4
+sg8
+S'\xe5\x85\x8b\xe6\x9c\x8d\xe5\x9b\xb0\xe9\x9a\xbe\xe5\x81\x9a\xe6\x9f\x90\xe4\xba\x8b'
+p4178
+sg10
+(lp4179
+S'overcome the difficulties to do sth'
+p4180
+aS'get over the difficulties to do sth'
+p4181
+aS'take great trouble/pain to do'
+p4182
+aS'bother to do'
+p4183
+asbag1
+(g2
+g3
+Ntp4184
+Rp4185
+(dp4186
+g7
+I2
+sg8
+S'\xe8\x87\xaa\xe5\xb7\xb1\xe7\x9a\x84\xe4\xb8\x80\xe6\x9c\xac\xe4\xb9\xa6'
+p4187
+sg10
+(lp4188
+S"a book of one's own"
+p4189
+aS"one's own book"
+p4190
+asbag1
+(g2
+g3
+Ntp4191
+Rp4192
+(dp4193
+g7
+I3
+sg8
+S'\xe6\xa0\xb9\xe6\x8d\xae\xe8\x87\xaa\xe5\xb7\xb1\xe7\x9a\x84'
+p4194
+sg10
+(lp4195
+S"on one's own"
+p4196
+aS'by oneself'
+p4197
+aS'alone'
+p4198
+asbag1
+(g2
+g3
+Ntp4199
+Rp4200
+(dp4201
+g7
+I2
+sg8
+S'\xe6\x8a\x8a\xe6\x9f\x90\xe4\xba\x8b'
+p4202
+sg10
+(lp4203
+S'pack sth in'
+p4204
+aS'wrap sth in/into'
+p4205
+asbag1
+(g2
+g3
+Ntp4206
+Rp4207
+(dp4208
+g7
+I2
+sg8
+S'\xe5\xaf\xb9A\xe5\x92\x8cB'
+p4209
+sg10
+(lp4210
+S'pair A with B'
+p4211
+aS'match A with B'
+p4212
+asbag1
+(g2
+g3
+Ntp4213
+Rp4214
+(dp4215
+g7
+I2
+sg8
+S'\xe5\x9c\xa8\xe6\x81\x90\xe6\x85\x8c'
+p4216
+sg10
+(lp4217
+S'in a panic'
+p4218
+aS'in fear'
+p4219
+asbag1
+(g2
+g3
+Ntp4220
+Rp4221
+(dp4222
+g7
+I3
+sg8
+S'\xe5\x8e\x9f\xe8\xb0\x85\xe6\x9f\x90\xe4\xba\xba\xe5\x81\x9a'
+p4223
+sg10
+(lp4224
+S'forgive sb for doing'
+p4225
+aS'pardon sb for doing sth'
+p4226
+aS'excuse sb for doing'
+p4227
+asbag1
+(g2
+g3
+Ntp4228
+Rp4229
+(dp4230
+g7
+I2
+sg8
+S'\xe8\x87\xb3\xe4\xba\x8e\xe6\x88\x91'
+p4231
+sg10
+(lp4232
+S'as for me'
+p4233
+aS'for my part'
+p4234
+asbag1
+(g2
+g3
+Ntp4235
+Rp4236
+(dp4237
+g7
+I2
+sg8
+S'\xe4\xb8\xad\xe6\x89\xae\xe6\xbc\x94\xe9\x87\x8d\xe8\xa6\x81\xe8\xa7\x92\xe8\x89\xb2'
+p4238
+sg10
+(lp4239
+S'play an important role in'
+p4240
+aS'play an important part in'
+p4241
+asbag1
+(g2
+g3
+Ntp4242
+Rp4243
+(dp4244
+g7
+I2
+sg8
+S'\xe5\xaf\xb9\xe8\x87\xb3\xe5\x85\xb3\xe9\x87\x8d\xe8\xa6\x81'
+p4245
+sg10
+(lp4246
+S'be critical about'
+p4247
+aS'be particular about'
+p4248
+asbag1
+(g2
+g3
+Ntp4249
+Rp4250
+(dp4251
+g7
+I2
+sg8
+S'\xe8\xa6\x81\xe6\x9c\x89\xe8\x80\x90\xe5\xbf\x83,'
+p4252
+sg10
+(lp4253
+S'be patient with'
+p4254
+aS'have patience with'
+p4255
 asba.

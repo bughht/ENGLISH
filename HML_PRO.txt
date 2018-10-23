@@ -408,7 +408,7 @@
   > prohibit sb from doing
 [107] 一旦
   > as soon as
-  > hardly when
+  > hardly when 
   > no sooner than
   > the moment
 [108] 伤害
@@ -1670,3 +1670,472 @@
   > in the name of
   > in memory of
   > in honor of
+[413] 翻译
+  > translate
+  > interpret
+[414] 投资
+  > invest
+  > investment
+[415] 邀请
+  > invite
+  > invitation
+  > invitating
+[416] 常规的
+  > regular
+  > irregular
+[417] 监狱
+  > jail
+  > prison
+[418] 最近
+  > recently
+  > lately
+  > nowadays
+[419] 法律
+  > legal
+  > illegal
+[420] 电梯
+  > elevator
+  > lift
+[421] 躺躺躺
+  > lie lay lain
+  > lie lied lied
+  > lay laid laid
+[422] 失去
+  > lose
+  > loss
+[423] 忠诚
+  > loyalty
+  > loyal
+[424] 行李
+  > luggage
+  > baggage
+[425] 奢侈品
+  > luxury
+  > luxurious
+[426] 魔法
+  > magic
+  > magical
+[427] 良好的举止
+  > good manners
+  > bad manners
+[428] 制造
+  > manufacture
+[429] 奇迹
+  > marvel
+  > marvelous
+[430] 多数
+  > majority
+  > minority
+[431] 奇迹
+  > miracle
+  > miraculous
+[432] 痛苦
+  > misery
+  > miseriable
+  > tragedy
+[433] 混合
+  > mix
+  > mixture
+  > mix
+[434] 道德
+  > moral
+  > morality
+[435] 此外
+  > furthermore
+  > moreover
+  > in addition
+  > besides
+  > apart from
+[436] 神秘的
+  > mysterious
+  > mystery
+[437] 自然
+  > nature
+  > natural
+[438] 国家
+  > nation
+  > national
+  > nationality
+[439] 必要的
+  > necessary
+  > necessity
+[440] 积极的
+  > positive
+  > negative
+[441] 谈判
+  > negotiate
+  > negotiation
+[442] 侄子
+  > nephew
+  > niece
+[443] 不过
+  > nevertheless
+  > however
+  > nonetheless
+[444] 正常的
+  > normal
+  > abnormal
+[445] 托儿所
+  > nursery
+[446] 幼儿园
+  > kindergarten
+[447] 养老院
+  > nursing home
+[448] 营养
+  > nutrition
+  > nutrient
+  > nutritious
+[449] 服从
+  > obey
+  > observe
+  > disobey
+[450] 获得
+  > obtain
+  > acquire
+  > get
+  > gain
+  > achieve
+  > accomplish
+[451] 起源
+  > origin
+  > origin
+  > original
+[452] 杰出的
+  > outstanding
+  > remarkable
+  > extraordinary
+  > exceptional
+  > distinguished
+[453] 参与
+  > participate
+  > participant
+[454] 特定的
+  > particular
+  > especially
+[455] 爱国
+  > patriotic
+  > patriotism
+  > patriot
+[456] 做一个调查
+  > make an investigation
+  > conduct an investigation
+  > carry out an investigation
+  > perform an investigation
+  > investigate on
+  > look into
+[457] 分离一个从B
+  > seperate A from B
+  > isolate A from B
+[458] 嫉妒
+  > be envious of
+  > be jealous of
+[459] 寻找一份工作
+  > hunt for a job
+  > find a job
+  > quit a job
+  > retire from a job
+  > resign
+[460] 排队
+  > line up
+  > join a que
+  > be in a que
+  > be in a role
+  > be in a line
+  > jump a que
+[461] 与…有关
+  > be linked with
+  > be linked to
+  > be associated with
+[462] 扮演一个恶作剧
+  > play a practical joke on
+[463] 去旅行
+  > go traveling
+  > go on a trip
+  > go on a journey
+[464] 不妨
+  > may as well
+  > might as well
+  > had better do
+[465] 渴望
+  > be keen on
+  > be fascinated with
+  > be fond of
+  > be interested in
+[466] 遵守交通规则
+  > follow the traffic rule
+  > obey the traffic rule
+  > observe the traffic rule
+  > keep to the traffic rule
+[467] 最后
+  > in the end
+  > at last
+  > finally
+  > consequently
+  > eventually
+  > as a result
+  > ultimately
+[468] 迟到了
+  > be late for
+  > come late to
+[469] 违反法律
+  > break the law
+  > be against the law
+  > disobey the law
+  > go against the lay
+  > violate the law
+[470] 责备某人做某事
+  > blame sb on sth
+  > sb be to blame for sth
+  > accuse sb of sth
+  > blame sb for sth
+[471] 导致某人做某事
+  > lead to sb to do sth
+  > result in sb to do sth
+  > cause sb to do sth
+[472] 留下某人一个人
+  > leave sb alone
+  > let sb alone
+[473] 帮某人一个忙
+  > lend sb a hand
+  > do sb a favor
+  > give sb a hand
+  > offer sb a help
+  > come to one's aid
+[474] 在一个人的闲暇时间
+  > in one's leisure time
+  > in one's free time
+[475] 更不用说
+  > not to mention
+  > let alone
+[476] 让某人搭车
+  > give sb a lift
+  > give sb a ride
+[477] 愿意做
+  > be willing to do
+  > want to do
+  > plan to do
+  > mean to do
+  > feel like doing
+  > would like to do
+  > intend to do
+[478] 这是可能的,
+  > it's possible that
+  > probable that
+  > be likely to do
+  > there's a possibility that
+  > it's likely that
+[479] 前
+  > former
+  > latter
+[480] 离开
+  > leave for
+  > ahead for
+  > make for
+[481] 位于
+  > be located in
+  > lie in
+  > stand in
+  > be situated in
+[482] 从长远来看
+  > in the long run
+  > in the long term
+[483] 渴望
+  > be eager for
+  > be hungry for
+  > desire for
+  > be thirsty for
+  > be dying for
+  > long for
+  > be anxious for
+  > be desperate for
+  > starve for
+[484] 把某人逼疯
+  > drive sb mad
+  > go mad
+  > out of one's mind
+[485] 碰碰运气
+  > try one's luck
+  > try one's fortune
+[486] 保持某物
+  > maintain sth
+  > keep sth in good condition
+[487] 大多数学生
+  > most students
+  > the majority of students
+  > most of the students
+[488] 许多学生
+  > many students
+  > a good many students
+  > a large quantity of students
+  > lots of students
+  > many a good student
+  > a good many students
+  > quite a few students
+[489] 嫁给
+  > be married to
+  > marry
+[490] 比赛…
+  > match sth
+  > go with sth
+[491] 事实上
+  > in fact
+  > as a matter of fact
+  > actually
+[492] 满足的要求
+  > meet the requirement
+  > meet the demand
+  > meet the needs
+  > meet the expection
+[493] 与此同时
+  > meanwhile
+  > at the same time
+  > in the mean time
+[494] 暂时
+  > temporarily
+  > for the time being
+  > for the moment
+[495] 心情很好
+  > in a good mood
+  > in a bad mood
+  > in a good humour
+  > in a bad humour
+  > in a high spirit
+  > in a low spirit
+[496] 高兴做某事
+  > be glad to do
+  > be willing to do
+  > be pleased to do
+  > be happy to do
+[497] 立即
+  > instantly
+  > immediately
+  > in no time
+  > at once
+  > right now
+  > right away
+  > in a minute
+  > in a moment
+[498] 鼓励某人去做
+  > encourage sb to do
+  > inspire sb to do
+  > urge sb to do
+  > motivate sb to do
+  > push sb to do
+  > stimulate sb to do
+[499] 勉强逃脱
+  > narrowly escape
+  > a narrow escape
+[500] 维护
+  > maintain
+  > keep
+  > break
+  > disturb
+[501] 远离
+  > far from
+  > not nearly
+[502] 如果有必要的话
+  > if necessary
+  > if possible
+[503] 需要
+  > need to be
+  > require to be
+  > want to be
+[504] 泄漏的消息
+  > leak the news
+  > give away the news
+  > release/break news
+[505] 急需…
+  > need sth badly
+  > there's a great need for sb to do
+  > it's necessary for sb to do/that sb should do
+  > it's essential for sb to do/that sb should do
+  > it's important for sb to do/that sb should do
+  > it's significant for sb to do/that sb should do
+[506] 迫切需要
+  > in urgent need of
+  > in desperate need of
+[507] 没有知道
+  > there's no knowing
+  > there's no saying
+  > there's no telling
+[508] 拒绝
+  > turn down
+  > refuse sth/sb
+  > reject sb/sth
+  > decline sb/sth
+  > have none of sb/sth
+  > ~
+[509] 免费
+  > for free
+  > with no charge
+  > for nothing
+  > free of charge
+  > free from charge
+[510] 注意
+  > pay attention to
+  > be aware of
+  > take notice of
+[511] 反对
+  > be against
+  > object to
+  > be opposed to
+  > oppose sth
+[512] 现在和以后
+  > now and then
+  > once in a while
+  > on occasion
+  > from time to time
+[513] 冒犯某人
+  > offend sb
+  > take offend at sb
+[514] 被强迫去做
+  > be forced to do
+  > be obliged to do
+[515] 向某人发生
+  > it occured to sb that
+  > sb come up with sth
+  > sth strike on sb
+  > sth hit on sb
+[516] 作用于某人
+  > operate on sb
+  > conduct an operation on sb
+  > carry out an operation on sb
+  > perform an operation on sb
+  > have an operation on sb
+[517] 克服困难做某事
+  > overcome the difficulties to do sth
+  > get over the difficulties to do sth
+  > take great trouble/pain to do
+  > bother to do
+[518] 自己的一本书
+  > a book of one's own
+  > one's own book
+[519] 根据自己的
+  > on one's own
+  > by oneself
+  > alone
+[520] 把某事
+  > pack sth in
+  > wrap sth in/into
+[521] 对A和B
+  > pair A with B
+  > match A with B
+[522] 在恐慌
+  > in a panic
+  > in fear
+[523] 原谅某人做
+  > forgive sb for doing
+  > pardon sb for doing sth
+  > excuse sb for doing
+[524] 至于我
+  > as for me
+  > for my part
+[525] 中扮演重要角色
+  > play an important role in
+  > play an important part in
+[526] 对至关重要
+  > be critical about
+  > be particular about
+[527] 要有耐心,
+  > be patient with
+  > have patience with
